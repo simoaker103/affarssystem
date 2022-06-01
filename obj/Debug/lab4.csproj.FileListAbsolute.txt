@@ -1,0 +1,16 @@
+C:\Users\simon\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\simon\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\simon\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.ReturnProductForm.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.ReceiptForm.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.View.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.ReturnProductDialog.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.RemoveProductDialog.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.TopTenSalesDialog.resources
+C:\Users\simon\source\repos\lab4\lab4\obj\Debug\lab4.TotalSalesDialog.resources
